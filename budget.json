@@ -1,0 +1,10 @@
+[
+  {
+    "budget": "Under 10L",
+    "cars": ["Tata Punch", "Maruti Swift", "Hyundai Exter"]
+  },
+  {
+    "budget": "10L - 15L",
+    "cars": ["Tata Nexon", "Hyundai Venue", "Kia Sonet"]
+  }
+]
