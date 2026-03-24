@@ -1,8 +1,16 @@
 # Budget Car Recommender
 
-Suggests best cars based on user budget.
+Suggests cars based on budget ranges.
 
-## Use Case
-Helps buyers shortlist options quickly.
+## Problem
+Buyers get confused with too many options.
 
-Status: Active
+## Solution
+Provide filtered recommendations based on budget.
+
+## Features
+- Budget segmentation
+- Quick shortlist generation
+
+## Status
+Actively being improved
